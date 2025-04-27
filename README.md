@@ -1,6 +1,6 @@
 ## TSI REST Framework
 
-TSI REST Framework, a part of TSI Digital Accelerator, exposes core REST framework using Loan Origination examples.
+TSI REST Framework, a part of TSI Digital Accelerator, exposes a core REST framework using Loan Origination examples.
 
 ### Getting Started
 
